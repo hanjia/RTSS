@@ -21,6 +21,15 @@ http://biz.yahoo.com/p/
 
 
 
+Market:
+- Bloomberg API: http://www.bloomberglabs.com/api/about/
+- E*Trade: https://us.etrade.com/active-trading/api
+- Quandl: http://www.quandl.com/help/api-for-stock-data
+
+
+
+
+
 Other Economic Data:
-FRED API (Federal Reserve): http://api.stlouisfed.org/docs/fred/?utm_source=research&utm_medium=website&utm_campaign=data-tools
-BLS API (Bureau of Labor Statistics): http://www.bls.gov/developers/
+- FRED API (Federal Reserve): http://api.stlouisfed.org/docs/fred/?utm_source=research&utm_medium=website&utm_campaign=data-tools
+- BLS API (Bureau of Labor Statistics): http://www.bls.gov/developers/
