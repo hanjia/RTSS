@@ -13,9 +13,6 @@ Researching Public Companies Through EDGAR: A Guide for Investors https://www.se
 
 
 
-
-
-
 Sector List:
 http://biz.yahoo.com/p/
 
@@ -25,7 +22,12 @@ Market:
 - Bloomberg API: http://www.bloomberglabs.com/api/about/
 - E*Trade: https://us.etrade.com/active-trading/api
 - Quandl: http://www.quandl.com/help/api-for-stock-data
+- Yahoo Finance Feeds: https://developer.yahoo.com/finance/
 
+
+Twitter Data API:
+- Streaming API: https://dev.twitter.com/docs/api/streaming
+- Search API: https://dev.twitter.com/docs/using-search
 
 
 
