@@ -1,12 +1,33 @@
+dist
+build
+bin
+raptorconfig
+batchoutput
+target
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.ipr
+*.iws
+ebay.log
+rebel.xml
+MANIFEST.MF
+/tests/
+/coverage/
+/cobertura.ser
+ebay.log*
 *.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.jar*/target/*
+**/temp_persist_config_*.xml
+**/persist_mark_down.properties
+*/src/main/resources/buildinfo.properties
+/.idea/
+**/*.iml
+build.xml
+ebay-build.xml
+4cc.checksum
+/.metadata
+.DS_Store
+/target
