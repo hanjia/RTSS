@@ -2,11 +2,12 @@
 ====
 A rule-based real-time stock filtering system.
 
-## Design
-
+## Overview
+![Components](design.png)
 
 ## Infrastructure
 
+## Design
 
 ## Data Sources
 ### SEC Data
