@@ -1,4 +1,4 @@
-package org.hanjia.RTSS;
+package org.hanjia.rtss;
 
 /**
  * Hello world!

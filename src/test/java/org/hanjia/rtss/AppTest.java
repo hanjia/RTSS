@@ -1,4 +1,4 @@
-package org.hanjia.RTSS;
+package org.hanjia.rtss;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
