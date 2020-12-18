@@ -20,3 +20,5 @@ dist
 *.class
 *.jar
 *.zip
+.idea
+.idea/*
